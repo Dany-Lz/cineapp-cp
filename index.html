@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="CineApp - Tu catálogo de películas favoritas">
+    <meta name="keywords" content="cine, películas, catálogo, favoritos">
+    <title>CineApp | Tus películas favoritas</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <header class="header">
+        <div class="header__marca">
+            <h1 class="header__titulo">Cine<span class="header__titulo--destacado">App</span></h1>
+            <p class="header__subtitulo">Tus películas favoritas, siempre a mano</p>
+        </div>
+
+        <div class="header__busqueda">
+            <input type="text" id="buscador" class="buscador" 
+                   placeholder="Buscar película..." autocomplete="off">
+            <button id="btn-buscar" class="boton boton--primario">Buscar</button>
+        </div>
+
+        <div class="header__favoritos" id="contador-favoritos">
+            <span class="header__estrella">★</span>
+            <span id="num-favoritos">0</span>
+        </div>
+    </header>
+
+    <section class="controles">
+        <div class="controles__filtros">    
+            <button id="filtro-todas" class="filtro filtro--activo">Todas</button>
+            <button id="filtro-favoritas" class="filtro">Favoritas</button>
+        </div>
+
+        <p class="controles__contador" id="contador-resultados">0 películas encontradas</p>
+
+        <div class="controles__orden">
+            <label for="orden" class="controles__label">Ordenar por:</label>
+            <select id="orden" class="select">
+                <option value="recientes">Más recientes</option>
+                <option value="antiguas">Más antiguas</option>
+                <option value="alfabetico">Alfabético (A-Z)</option>
+                <option value="alfabetico-desc">Alfabético (Z-A)</option>
+            </select>
+        </div>
+    </section>
+
+    <main class="catalogo">
+        <h2 class="catalogo__titulo">Películas</h2>
+        <div id="grid-peliculas" class="grid">
+            <!-- Aquí se insertan las tarjetas desde js -->
+        </div>
+        <p id="mensaje-vacio" class="mensaje-vacio" hidden>
+            No se encontraron películas.
+        </p>
+    </main>
+
+    <footer class="footer">
+        <p>CineApp | Disfruta, guarda y revive tus películas favoritas</p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

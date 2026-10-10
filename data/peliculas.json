@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "GoodFellas",
+    "year": 1990,
+    "genre": "Crimen",
+    "synopsis": "Henry Hill, un joven neoyorquino, asciende en la mafia italoamericana mientras equilibra su vida criminal con su familia. Basada en hechos reales.",
+    "image": "assets/img/goodfellas.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Memento",
+    "year": 2000,
+    "genre": "Thriller",
+    "synopsis": "Leonard Shelby sufre pérdida de memoria a corto plazo y usa fotos y notas para investigar el asesinato de su esposa, en una historia contada en orden inverso.",
+    "image": "assets/img/memento.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ford v Ferrari",
+    "year": 2019,
+    "genre": "Drama",
+    "synopsis": "El diseñador Carroll Shelby y el piloto Ken Miles luchan contra la burocracia de Ford para construir un auto capaz de vencer a Ferrari en Le Mans 1966.",
+    "image": "assets/img/ford_v_ferrari.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crimen",
+    "synopsis": "El patriarca de una dinastía del crimen organizado transfiere el control de su imperio a su hijo menor, desatando una guerra entre familias mafiosas.",
+    "image": "assets/img/godfather.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Godfather II",
+    "year": 1974,
+    "genre": "Crimen",
+    "synopsis": "Continúa la saga de la familia Corleone, entrelazando el ascenso de un joven Vito en Sicilia con la consolidación de Michael como nuevo don.",
+    "image": "assets/img/godfather_part_ii.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": "Drama",
+    "synopsis": "Un oficinista insomne y un carismático vendedor de jabón fundan un club de peleas clandestino que se convierte en un movimiento anarquista.",
+    "image": "assets/img/fight_club.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Se7en",
+    "year": 1995,
+    "genre": "Thriller",
+    "synopsis": "Dos detectives persiguen a un asesino en serie que comete crímenes inspirados en los siete pecados capitales, con un final devastador.",
+    "image": "assets/img/seven.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "genre": "Biografía",
+    "synopsis": "Frank Abagnale Jr., un estafador adolescente, falsifica cheques y se hace pasar por piloto, médico y abogado mientras un agente del FBI lo persigue.",
+    "image": "assets/img/catch_me_if_you_can.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "synopsis": "Andy Dufresne, un banquero condenado injustamente por asesinato, forja una amistad con un compañero de prisión y planea su escape durante dos décadas.",
+    "image": "assets/img/shawshankredemption.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genre": "Bélico",
+    "synopsis": "Un grupo de soldados judío-americanos se infiltra en la Francia ocupada por los nazis para sembrar el caos y vengar a sus compatriotas.",
+    "image": "assets/img/bastards.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crimen",
+    "synopsis": "Historias entrelazadas de dos sicarios, una esposa de gánster, un boxeador y dos ladrones, contadas en un orden no lineal por Quentin Tarantino.",
+    "image": "assets/img/pulp_fiction.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Scarface",
+    "year": 1983,
+    "genre": "Crimen",
+    "synopsis": "Tony Montana, un refugiado cubano, llega a Miami con nada y construye un imperio de cocaína, pero su ambición y paranoia lo destruyen.",
+    "image": "assets/img/scarface.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Django Unchained",
+    "year": 2012,
+    "genre": "Western",
+    "synopsis": "Un esclavo liberado se convierte en cazarrecompensas y, junto a un cazarrecompensas alemán, busca rescatar a su esposa de un brutal terrateniente.",
+    "image": "assets/img/django_unchained.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Kill Bill Vol. 1",
+    "year": 2003,
+    "genre": "Acción",
+    "synopsis": "La Novia, una exasesina, despierta de un coma y emprende una sangrienta venganza contra los miembros del Escuadrón de Víbora Asesina.",
+    "image": "assets/img/kill_bill.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Kill Bill Vol. 2",
+    "year": 2004,
+    "genre": "Acción",
+    "synopsis": "La Novia continúa su venganza enfrentando a los últimos miembros del escuadrón, culminando en un duelo final con Bill.",
+    "image": "assets/img/kill_bill_vol_two.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Back to the Future",
+    "year": 1985,
+    "genre": "Ciencia ficción",
+    "synopsis": "Marty McFly viaja accidentalmente al pasado en un DeLorean modificado por el Dr. Brown y debe asegurar que sus padres se enamoren para no borrar su existencia.",
+    "image": "assets/img/back_to_the_future.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Usual Suspects",
+    "year": 1995,
+    "genre": "Thriller",
+    "synopsis": "Un estafador relata a un agente federal cómo cinco criminales fueron reunidos por el misterioso Keyser Söze, en una historia llena de engaños.",
+    "image": "assets/img/usual_suspects.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Sixth Sense",
+    "year": 1999,
+    "genre": "Thriller",
+    "synopsis": "Un psicólogo infantil intenta ayudar a un niño que afirma ver a los muertos, descubriendo una verdad que cambiará su vida para siempre.",
+    "image": "assets/img/sixth_sense.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Die Hard",
+    "year": 1988,
+    "genre": "Acción",
+    "synopsis": "El policía John McClane queda atrapado en un rascacielos tomado por terroristas durante la Nochebuena y debe rescatar a los rehenes él solo.",
+    "image": "assets/img/die_hard.jpg"
+  }
+]
